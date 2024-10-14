@@ -1,5 +1,7 @@
 # Hackintosh, Asus ROG Strix B760-I Gaming, Intel Core i7-13700K, AMD Radeon RX 6700 XT
 
+![Overview](https://github.com/user-attachments/assets/f4762836-1f90-40d7-8e11-d25c5fc596a4)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sequoia (15.0.1)
